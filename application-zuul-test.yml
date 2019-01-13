@@ -2,7 +2,7 @@ server:
   port: 9527
 spring:
   application:
-    name: loveshopping-zuul-gateway-test
+    name: loveshopping-zuul-test
 eureka:
   client:
     service-url:
