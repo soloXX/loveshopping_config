@@ -2,7 +2,7 @@ server:
   port: 8001
 spring:
   application:
-    name: loveshopping-plat-dev
+    name: loveshopping-plat
 eureka:
   client:
     service-url:
